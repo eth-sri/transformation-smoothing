@@ -1,0 +1,9 @@
+[submodule "geometrictools/indicators"]
+	path = geometrictools/indicators
+	url = https://github.com/p-ranav/indicators.git
+[submodule "geometrictools/Catch2"]
+	path = geometrictools/Catch2
+	url = https://github.com/catchorg/Catch2.git
+[submodule "audio/GCommandsPytorch"]
+	path = audio/GCommandsPytorch
+	url = https://github.com/Viehzeug/GCommandsPytorch.git
