@@ -1,0 +1,9 @@
+functional
+numpy
+pandas
+robustness
+tqdm
+librosa
+glob2
+statsmodels
+imgaug
