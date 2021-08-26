@@ -17,7 +17,7 @@ Since the publication at NeurIPS'20 we found and fixed a bug. This changed some 
 Further, we also added additional experiments to allow better comparison with related approaches.
 Check out the latest version of the paper for these results.
 
-We fixed a bug in [indivSPT_certify_attacked.py](indivSPT_certify_attacked.py) identified by [Maurice Weber](https://systems.ethz.ch/people/profile.MTgxODU3.TGlzdC8zODg4LDEyOTU2NDI2OTI=.html). Thank you, Maurice! This did not change any results.
+We fixed a further bug in [indivSPT_certify_attacked.py](indivSPT_certify_attacked.py) identified by [Maurice Weber](https://systems.ethz.ch/people/profile.MTgxODU3.TGlzdC8zODg4LDEyOTU2NDI2OTI=.html). Thank you, Maurice! This did not change any results.
 
 
 
